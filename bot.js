@@ -1,22 +1,4 @@
-Skip to content
- 
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- @DvRocker
-Sign out
- Watch 1
- Star 1  Fork 42 AlphaCode-YourBotGuide/AlphaCode-1Music
- Code  Issues 0  Pull requests 1  Projects 0  Wiki  Insights
-Branch: master Find file Copy path AlphaCode-1Music/bot.js
-ba0125d  26 days ago
-@AlphaCode-YourBotGuide AlphaCode-YourBotGuide Update bot.js
-1 contributor
-RawBlameHistory     
-347 lines (267 sloc)  10.8 KB
 const Discord = require('discord.js');
 
 const Util = require('discord.js');
@@ -362,17 +344,3 @@ client.on('message', message => {
 });
 
 client.login(process.env.BOT_TOKEN);
-
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Press h to open a hovercard with more details.
