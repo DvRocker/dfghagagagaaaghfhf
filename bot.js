@@ -326,6 +326,7 @@ client.on('message', message => {
         .addField('#skip', 'تخطي الأغنية')
         .addField('#pause', 'ايقاف الاغنية مؤقتا')
         .addField('#resume', 'تكملة الاغنية')
+	.addField('#vol', 'لتعلية صوت الاغنية')
         .addField('#queue', 'اظهار قائمة التشغيل')
         .addField('#np', 'اظهار الاغنية اللي انت مشغلها حاليا')
         .setFooter('(#general_commands) لاظهار الاوامر العامة')
