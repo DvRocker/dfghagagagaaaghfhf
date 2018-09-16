@@ -21,7 +21,7 @@ const gif = require("gif-search");
 
 const client = new Discord.Client({disableEveryone: true});
 
-const prefix = "#";
+const prefix = "&";
 /////////////////////////
 ////////////////////////
 
@@ -81,7 +81,7 @@ client.on('message', async msg =>{
 ////////////////////////
 //////////////////////
 client.on('ready', () => {
-   client.user.setGame(" #help | This Bot By:! Dex ™ | DvRocker ");
+   client.user.setGame(" &help | This Bot By:! Dex ™ | DvRocker ");
 }); 
 /////////////////////////
 ////////////////////////
@@ -316,31 +316,31 @@ function play(guild, song) {
 
 
 client.on('message', message => {
-    if (message.content === '#help') {
+    if (message.content === '&help') {
         let helpEmbed = new Discord.RichEmbed()
         .setTitle('**أوامر الميوزك...**')
         .setDescription('**برفكس البوت (#)**')
-        .addField('#play', 'لتشغيل اغنية')
-        .addField('#join', 'دخول رومك الصوتي')
-        .addField('#disconnect', 'الخروج من رومك الصوتي')
-        .addField('#skip', 'تخطي الأغنية')
-        .addField('#pause', 'ايقاف الاغنية مؤقتا')
-        .addField('#resume', 'تكملة الاغنية')
-	.addField('#vol', 'لتعلية صوت الاغنية')
-        .addField('#queue', 'اظهار قائمة التشغيل')
-        .addField('#np', 'اظهار الاغنية اللي انت مشغلها حاليا')
-        .setFooter('(#general_commands) لاظهار الاوامر العامة')
+        .addField('&play', 'لتشغيل اغنية')
+        .addField('&join', 'دخول رومك الصوتي')
+        .addField('&disconnect', 'الخروج من رومك الصوتي')
+        .addField('&skip', 'تخطي الأغنية')
+        .addField('&pause', 'ايقاف الاغنية مؤقتا')
+        .addField('&resume', 'تكملة الاغنية')
+	.addField('&vol', 'لتعلية صوت الاغنية')
+        .addField('&queue', 'اظهار قائمة التشغيل')
+        .addField('&np', 'اظهار الاغنية اللي انت مشغلها حاليا')
+        .setFooter('(&general_commands) لاظهار الاوامر العامة')
       message.channel.send(helpEmbed);
     }
 });
 
 client.on('message', message => {
-    if (message.content === '#general_commands') {
+    if (message.content === '&general_commands') {
         let helpEmbed = new Discord.RichEmbed()
         .setTitle('**أوامر عامة...**')
-        .addField('#avatar', "افاتار الشخص المطلوب")
-        .addField('#gif', 'البحث عن جيف انت تطلبه')
-        .addField('#ping', 'معرفة ping البوت')
+        .addField('&avatar', "افاتار الشخص المطلوب")
+        .addField('&gif', 'البحث عن جيف انت تطلبه')
+        .addField('&ping', 'معرفة ping البوت')
         .setFooter('المزيد قريبا ان شاء الله!')
       message.channel.send(helpEmbed);
     }
