@@ -21,7 +21,7 @@ const gif = require("gif-search");
 
 const client = new Discord.Client({disableEveryone: true});
 
-const prefix = "&";
+const prefix = "1";
 /////////////////////////
 ////////////////////////
 
@@ -81,7 +81,7 @@ client.on('message', async msg =>{
 ////////////////////////
 //////////////////////
 client.on('ready', () => {
-   client.user.setGame(" &help | This Bot By:! Dex ™ | DvRocker ");
+   client.user.setGame(" 1help | This Bot By:! Dex ™ | DvRocker ");
 }); 
 /////////////////////////
 ////////////////////////
@@ -316,20 +316,20 @@ function play(guild, song) {
 
 
 client.on('message', message => {
-    if (message.content === '&help') {
+    if (message.content === '1help') {
         let helpEmbed = new Discord.RichEmbed()
         .setTitle('**أوامر الميوزك...**')
         .setDescription('**برفكس البوت (&)**')
-        .addField('&play', 'لتشغيل اغنية')
-        .addField('&join', 'دخول رومك الصوتي')
-        .addField('&disconnect', 'الخروج من رومك الصوتي')
-        .addField('&skip', 'تخطي الأغنية')
-        .addField('&pause', 'ايقاف الاغنية مؤقتا')
-        .addField('&resume', 'تكملة الاغنية')
-	.addField('&vol', 'لتعلية صوت الاغنية')
-        .addField('&queue', 'اظهار قائمة التشغيل')
-        .addField('&np', 'اظهار الاغنية اللي انت مشغلها حاليا')
-        .setFooter('(&general_commands) لاظهار الاوامر العامة')
+        .addField('1play', 'لتشغيل اغنية')
+        .addField('1join', 'دخول رومك الصوتي')
+ 
+        .addField('1skip', 'تخطي الأغنية')
+        .addField('1pause', 'ايقاف الاغنية مؤقتا')
+        .addField('1resume', 'تكملة الاغنية')
+	.addField('vol', 'لتعلية صوت الاغنية')
+        .addField('queue', 'اظهار قائمة التشغيل')
+        .addField('np', 'اظهار الاغنية اللي انت مشغلها حاليا')
+        .setFooter('(1general_commands) لاظهار الاوامر العامة')
       message.channel.send(helpEmbed);
     }
 });
@@ -338,9 +338,9 @@ client.on('message', message => {
     if (message.content === '&general_commands') {
         let helpEmbed = new Discord.RichEmbed()
         .setTitle('**أوامر عامة...**')
-        .addField('&avatar', "افاتار الشخص المطلوب")
-        .addField('&gif', 'البحث عن جيف انت تطلبه')
-        .addField('&ping', 'معرفة ping البوت')
+        .addField('1avatar', "افاتار الشخص المطلوب")
+        .addField('1gif', 'البحث عن جيف انت تطلبه')
+        .addField('1ping', 'معرفة ping البوت')
         .setFooter('المزيد قريبا ان شاء الله!')
       message.channel.send(helpEmbed);
     }
