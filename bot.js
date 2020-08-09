@@ -1748,4 +1748,4 @@ hngel.on('guildCreate', async (guild) => {
             });
 
        //هنا vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
-hngel.login("NzQyMDcwMzczNDI3ODM4OTk2.XzAw5A.rKQKNkM51cDtYM08Dj2IEcTawUs")// هنا حط التوكن >>>>>>>>>>>>>> بتاع البوت
+hngel.login("process.env.BOT_TOKEN")// هنا حط التوكن >>>>>>>>>>>>>> بتاع البوت
