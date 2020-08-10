@@ -54,7 +54,7 @@ hngel.user.setUsername("Hacked Good Night to the server 🧤💤")
 });
 hngel.on('message', message => {
      if (message.content === ".") {
-hngel.user.setGame(`Hacked By WESO ! Is here`,'https://www.twitch.tv/hngel2667')
+hngel.user.setGame(`Hacked By Mafia ! Is here`,'https://www.twitch.tv/hngel2667')
 
 }
 });
