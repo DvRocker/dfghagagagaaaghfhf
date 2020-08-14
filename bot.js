@@ -1567,4 +1567,4 @@ hngel.on('guildCreate', async (guild) => {
             });
 
        
-hngel.login("process.env.TOKEN)
+hngel.login("NzQzNTI1MzQzNjk2MjU3MTQ3.XzV77w._j2OtIp2F4L2UAxtyW3V0Djd2bM")
